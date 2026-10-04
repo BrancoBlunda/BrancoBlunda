@@ -1,21 +1,26 @@
-## Branco Blunda — Software Engineer
+## Branco Blunda · Software Engineer
 
-Construyo sistemas con IA que llegan a producción y los usa gente real: agentes de voz y de WhatsApp, SaaS multi-tenant, apps móviles publicadas y automatización de procesos.
+Construyo sistemas con IA que llegan a producción y los usa gente real. Agentes de voz y de WhatsApp, SaaS multi-tenant, apps móviles publicadas y automatización de procesos.
 
-Desarrollo software desde 2017 · freelance full-time desde 2024 · Rosario, Argentina.
+Hoy trabajo como Software Engineer en RedChat, una plataforma de IA para ecommerce. Desarrollo software desde 2017 y soy freelance desde 2024 · Rosario, Argentina.
 
 ### En producción hoy
 
-**Taxi AI** — Despacho telefónico de taxis con IA: atiende la llamada, entiende la dirección del pasajero y asigna conductor sin operador. 500+ conductores, 50.000+ llamadas por mes, ~70% menos trabajo manual.
+**Taxi AI**
+Despacho telefónico de taxis con IA. Atiende la llamada, entiende la dirección del pasajero y asigna conductor sin operador. 500+ conductores, 50.000+ llamadas por mes, ~70% menos trabajo manual.
 https://taxiai.com.co
 
-**SignFloow** — SaaS multi-tenant para empresas de rotulación: tablero de producción, catálogo con recetas de fabricación, presupuestos por fórmulas y asistente de IA con tool-use. En producción con clientes.
+**SignFloow**
+SaaS multi-tenant para empresas de rotulación, con tablero de producción, catálogo con recetas de fabricación, presupuestos por fórmulas y asistente de IA con tool-use. En producción con clientes.
 
-**BLC One** — Plataforma de gestión para un grupo de energía renovable: 237 plantas y 2.555 compromisos regulatorios centralizados, permisos por rol en 15 módulos, 2.700+ tests automatizados.
+**BLC One**
+Plataforma de gestión para un grupo de energía renovable. 237 plantas y 2.555 compromisos regulatorios centralizados, permisos por rol en 15 módulos, 2.700+ tests automatizados.
 
-**Infinity Book** — App móvil de escaneo con OCR e IA. 8.900+ usuarios registrados, publicada en Google Play y App Store.
+**Infinity Book**
+App móvil de escaneo con OCR e IA. 8.900+ usuarios registrados, publicada en Google Play y App Store.
 
-**Vertical** — Agentes de WhatsApp con IA para inmobiliarias. Proveedor de tecnología verificado por Meta.
+**Vertical**
+Cofundé y construí esta plataforma de agentes de WhatsApp con IA para inmobiliarias. Proveedor de tecnología verificado por Meta.
 
 ### Apps publicadas
 
@@ -25,7 +30,7 @@ https://play.google.com/store/apps/details?id=com.infinitybook.infinitybook
 Taxi AI pasajero
 https://play.google.com/store/apps/details?id=co.com.taxiai.pasajero
 
-Taxi AI Conductor
+Taxi AI conductor
 https://play.google.com/store/apps/details?id=co.com.taxiai.conductor
 
 Infinity Book también está publicada en la App Store.
@@ -40,7 +45,7 @@ LLMs con tool-use · agentes en producción · fallback multi-proveedor · STT/T
 
 Arquitectura primero · entregas por hitos · tests automatizados como condición de entrega · desarrollo asistido por IA con especificaciones claras.
 
-La mayor parte de mi trabajo es privado porque es código de clientes. Los casos completos, con capturas y links vivos, están en mi portafolio:
+La mayor parte de mi trabajo es privado porque es código de clientes. Los casos completos, con capturas y links vivos, están en mi portafolio.
 https://brancoblunda.github.io
 
 ### Contacto
