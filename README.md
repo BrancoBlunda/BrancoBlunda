@@ -41,7 +41,7 @@ LLMs con tool-use · agentes en producción · fallback multi-proveedor · STT/T
 Arquitectura primero · entregas por hitos · tests automatizados como condición de entrega · desarrollo asistido por IA con especificaciones claras.
 
 La mayor parte de mi trabajo es privado porque es código de clientes. Los casos completos, con capturas y links vivos, están en mi portafolio:
-https://blundabranco.github.io
+https://brancoblunda.github.io
 
 ### Contacto
 
