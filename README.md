@@ -28,7 +28,7 @@ App móvil de escaneo con OCR e IA. 8.900+ usuarios registrados, publicada en Go
 https://myinfinitybook.com
 
 **Vertical**
-Cofundé y construí esta plataforma de agentes de WhatsApp con IA para inmobiliarias. 50+ inmobiliarias activas, proveedor de tecnología verificado por Meta.
+Creé y construí yo solo esta plataforma de agentes de WhatsApp con IA para inmobiliarias. 50+ inmobiliarias activas, proveedor de tecnología verificado por Meta.
 
 ### Apps publicadas
 
